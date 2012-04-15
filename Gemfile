@@ -1,2 +1,3 @@
-source :rubygems 
-gem 'rails', '2.3.5'
+source :rubygems
+gem 'sinatra', '1.1.0'
+gem 'thin'
